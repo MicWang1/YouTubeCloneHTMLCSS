@@ -43,6 +43,12 @@
     row-gap: 40px;
 }
 
+.video-title,
+.thumbnail,
+.profile-picture {
+    cursor: pointer;
+}
+
 
 @media (max-width: 1000px) {
     .video-grid {
